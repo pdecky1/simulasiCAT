@@ -11,7 +11,7 @@ npm install
 npm run dev
 
 # Vercel Deployment
-Link: 
+Link: https://simulasi-r4quy6giq-decky-pratama-putras-projects.vercel.app/
 
 # Static Login
 username : admin
