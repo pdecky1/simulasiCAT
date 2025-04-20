@@ -1,20 +1,36 @@
-# Langkah 1: Clone repositori menggunakan URL Git proyek Anda  
+# 📦 Langkah Instalasi
+
+## 1. Clone repositori  
+```bash
 git clone <YOUR_GIT_URL>
+```
 
-# Langkah 2: Masuk ke direktori proyek  
+## 2. Masuk ke direktori proyek  
+```bash
 cd <YOUR_PROJECT_NAME>
+```
 
-# Langkah 3: Instal semua dependensi yang diperlukan  
+## 3. Instal semua dependensi  
+```bash
 npm install
+```
 
-# Langkah 4: Jalankan server pengembangan dengan fitur auto-reload dan preview instan  
+## 4. Jalankan server pengembangan  
+```bash
 npm run dev
+```
 
-# Vercel Deployment
-Link: https://simulasi-r4quy6giq-decky-pratama-putras-projects.vercel.app/
+## Figma
+🔗 https://www.figma.com/design/EJS4RgRQALlCHrMpRskXb0/CAT---Design-UI-UX?node-id=0-1&t=cjpEXbBwMa1mJCoT-1
+---
 
-# Static Login
-username : admin
-password : password
+# 🚀 Deploy di Vercel  
+Aplikasi ini sudah dideploy di Vercel dan dapat diakses melalui:  
+ [https://simulasi-r4quy6giq-decky-pratama-putras-projects.vercel.app/](https://simulasi-r4quy6giq-decky-pratama-putras-projects.vercel.app/)
 
+---
 
+# 🔐 Login Statis  
+Gunakan akun berikut untuk login ke sistem:
+- **Username:** `admin`  
+- **Password:** `password`
