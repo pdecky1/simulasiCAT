@@ -309,8 +309,8 @@ const Index = () => {
 
       {/* CTA Section */}
       <section className="bg-[#043A53]">
-        <div className="container mx-auto flex flex-row items-center justify-between text-center">
-          <div className="w-full md:w-1/3 text-center md:text-start">
+        <div className="container mx-auto flex flex-row items-center justify-between text-center py-6 md:py-0">
+          <div className="w-full md:w-1/3 text-center md:text-start flex flex-col items-center md:items-start justify-center gap-4 px-4">
             <h1 className="text-4xl font-bold text-white mb-4">Mulai Persiapan Anda Sekarang</h1>
             <p className="text-white text-lg mb-8">Tingkatkan peluang kelulusan Anda dengan simulasi yang realistis dan panduan lengkap</p>
             <div className="flex flex-row bg-[#F0B73F] rounded-full px-4 py-5 w-fit gap-3 justify-center items-center cursor-pointer hover:bg-[#F0B73F]/80 mb-2">
