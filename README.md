@@ -26,7 +26,7 @@ npm run dev
 
 # 🚀 Deploy di Vercel  
 Aplikasi ini sudah dideploy di Vercel dan dapat diakses melalui:  
- [https://simulasi-r4quy6giq-decky-pratama-putras-projects.vercel.app/](https://simulasi-r4quy6giq-decky-pratama-putras-projects.vercel.app/)
+🔗 [https://simulasi-oacwju9e7-decky-pratama-putras-projects.vercel.app/](https://simulasi-oacwju9e7-decky-pratama-putras-projects.vercel.app/)
 
 ---
 
